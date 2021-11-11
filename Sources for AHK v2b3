@@ -1,0 +1,7 @@
+The Original class MySQLAPI is for AHK v1. On AHK v2 a lot of things have changed. Although the AHK v2 script converter (at https://github.com/mmikeww/AHK-v2-script-converter)
+has contributed most of the modifications, there are still days of work for me to let the class work on AHK v2 beta 3. Fortunately I finally made the class and demo working.
+So I would like to upload here in case other one may need it. 
+
+Note that I use XAMPP MariaDB, so I have replaced the dll name libmysql.dll with libmariadb.dll, which is included in MariaDB C API Connector available on MariaDB official site.
+
+Enjoy!
